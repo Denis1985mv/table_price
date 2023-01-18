@@ -2,7 +2,9 @@
 /vendor
 /test
 /template
-/teskExl
+/teskExsl
 /style
 /file
 /class
+/composer.json
+/compiser.lock
